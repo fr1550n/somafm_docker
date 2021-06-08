@@ -1,0 +1,2 @@
+gfxhat==0.0.1
+python-vlc==3.0.11115
